@@ -97,7 +97,7 @@ A pasta `modulo-6-iac` contém materiais relacionados a:
 * arquivos de configuração;
 * exemplos e laboratórios práticos.
 ```
-## Pastas adicionais
+## Pasta adicional
 
 ### `scripts`
 
@@ -112,32 +112,6 @@ Exemplos:
 * backup de diretórios;
 * análise de logs;
 * geração de relatórios.
-```
-### `docs`
-
-Armazena documentos gerais que podem ser utilizados em diferentes módulos.
-
-Exemplos:
-```text
-* guias de comandos;
-* checklists;
-* documentações técnicas;
-* anotações;
-* procedimentos;
-* relatórios.
-```
-### `labs`
-
-Armazena laboratórios práticos e simulações.
-
-Exemplos:
-```text
-* testes de comunicação web;
-* análise de logs;
-* configuração de serviços;
-* testes com APIs;
-* automações;
-* cenários de diagnóstico.
 ```
 ## Objetivo final
 
